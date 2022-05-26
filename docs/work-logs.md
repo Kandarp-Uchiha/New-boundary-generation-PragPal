@@ -12,3 +12,6 @@ Kandarp Devmurari
 
 ### Wednesday
 - Made a scene using 2 walls, a capsule player and wrote the movement script for the player(and camera) to move on the 3 left, middle, right part of the path. Also added jump command for the player.   
+
+### Thursday
+- Wrote infinite tile generation script and 5 different random obstacle generation script in Unity and ran it.
