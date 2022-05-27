@@ -35,3 +35,9 @@ Kandarp Devmurari
 
 ### Thursday
 - Wrote infinite tile generation script and 5 different random obstacle generation script in Unity and ran it.
+
+### Friday
+- Solved the problem of spawning jump obstacle in place of duck obstacle.
+- Added colliders to the various obstacles.
+- Solved the problem of player passing through some(left, right) obstacles and not stopping.
+- Added 3 KeyDown functions, which allows the player to toggle between orangeLight and blueLight material, also toggles the wallType and skybox color(between orange and blue).
