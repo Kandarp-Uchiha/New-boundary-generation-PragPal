@@ -41,3 +41,12 @@ Kandarp Devmurari
 - Added colliders to the various obstacles.
 - Solved the problem of player passing through some(left, right) obstacles and not stopping.
 - Added 3 KeyDown functions, which allows the player to toggle between orangeLight and blueLight material, also toggles the wallType and skybox color(between orange and blue).
+
+### Saturday
+- Wrote OnColliderCollisionHit function to trigger collision with obstacles(forcefield, duck and jump) and OnTriggerEnter function to trigger what happens on entering Gates.
+- GAME OVERS when a player collides with an obstacles or passes through a gate with different color.
+
+
+## Week 2 [30 May 2022 - 4 June 2022]
+### Monday 
+- Made a turret(orange and blue) obstacle which shoots the player. 
