@@ -49,4 +49,7 @@ Kandarp Devmurari
 
 ## Week 2 [30 May 2022 - 4 June 2022]
 ### Monday 
-- Made a turret(orange and blue) obstacle which shoots the player. 
+- Made a turret(orange and blue) obstacle which shoots the player.
+
+### Tuesday
+- Made a Tron Legacy inspired disc weapon(along with disc shoot function that the player can use to shoot using left mouse click) which can be used to destroy the turrets of opposite color.
