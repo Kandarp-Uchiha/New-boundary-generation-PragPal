@@ -53,3 +53,6 @@ Kandarp Devmurari
 
 ### Tuesday
 - Made a Tron Legacy inspired disc weapon(along with disc shoot function that the player can use to shoot using left mouse click) which can be used to destroy the turrets of opposite color.
+
+### Wednesday
+- Made a character with run animation using Blender and Unity to replace the current capsule Player.
