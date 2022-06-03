@@ -56,3 +56,8 @@ Kandarp Devmurari
 
 ### Wednesday
 - Made a character with run animation using Blender and Unity to replace the current capsule Player.
+
+### Thursday
+- Replaced the capsule Player with the Tron Player and added the run aniamtion using Animator component.
+- Made some changes in the previous scripts attached to the capsule Player so that now it works with the Tron Player.
+- Found the problem why the disc was shooting backwards.
