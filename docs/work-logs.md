@@ -61,3 +61,6 @@ Kandarp Devmurari
 - Replaced the capsule Player with the Tron Player and added the run aniamtion using Animator component.
 - Made some changes in the previous scripts attached to the capsule Player so that now it works with the Tron Player.
 - Found the problem why the disc was shooting backwards.
+
+### Friday
+- Tried to setup the PragPal algorithm Unity project in Occulus
