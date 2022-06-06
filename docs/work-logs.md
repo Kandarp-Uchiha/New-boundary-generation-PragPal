@@ -64,3 +64,9 @@ Kandarp Devmurari
 
 ### Friday
 - Tried to setup the PragPal algorithm Unity project in Occulus
+
+
+## Week 3 [6 June 2022 - 11 June 2022]
+### Monday
+- Wrote a script which changes the wall color instantly rather than spawning the new toggled wall color after sometime(kind of like dynamic rendering ****). Therefore, the environment now changes instanteneously giving a better gameplay/user experience.
+
