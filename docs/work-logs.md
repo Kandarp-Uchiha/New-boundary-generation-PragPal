@@ -70,3 +70,9 @@ Kandarp Devmurari
 ### Monday
 - Wrote a script which changes the wall color instantly rather than spawning the new toggled wall color after sometime(kind of like dynamic rendering ****). Therefore, the environment now changes instanteneously giving a better gameplay/user experience.
 
+### Tuesday
+- Made the shooting disc script to work properly
+- Added new constraints for path length for obtuse beta angles(i.e at corners) in my left and right point generation(for wall) enchancement code; because of these constraints the wall neither seems to go beyond the room boundaries nor traps the player at the corner(with the walls). 
+
+### Wedenesday
+- Added a GAMEOVER screen with Replay and Quit buttons in the game; and a START button. The game overs when player collides with a forcefield or passes a gate with wrong color or is hit by the turret bullet.
