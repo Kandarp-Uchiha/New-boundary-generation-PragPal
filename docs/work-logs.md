@@ -76,3 +76,7 @@ Kandarp Devmurari
 
 ### Wedenesday
 - Added a GAMEOVER screen with Replay and Quit buttons in the game; and a START button. The game overs when player collides with a forcefield or passes a gate with wrong color or is hit by the turret bullet.
+
+### Thursday
+- Tried the PragPal algorithm art gallery demonstration in VR after loading the build of the project.
+- Made a score coin and added a coin count system for the game.
