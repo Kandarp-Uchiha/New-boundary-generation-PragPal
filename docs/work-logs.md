@@ -80,3 +80,15 @@ Kandarp Devmurari
 ### Thursday
 - Tried the PragPal algorithm art gallery demonstration in VR after loading the build of the project.
 - Made a score coin and added a coin count system for the game.
+
+### Friday
+- Added Main theme, coin pick up and Game over sounds in the game(using a Audio Manager script) 
+
+### Saturday
+- As the shooting script was not working properly in third person perspective, I converted the game to first person perspective.
+
+
+## Week 4 [13 June 2022 - 18 June 2022]
+### Monday
+- Added the function to destroy the turret when the player shoots a disc of different color towards it.
+- Added a function by which now the turret bullets reduce the health of the player and after certain hits the players health becomes 0, and the Game overs.
