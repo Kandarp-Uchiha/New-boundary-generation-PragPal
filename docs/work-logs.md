@@ -92,3 +92,12 @@ Kandarp Devmurari
 ### Monday
 - Added the function to destroy the turret when the player shoots a disc of different color towards it.
 - Added a function by which now the turret bullets reduce the health of the player and after certain hits the players health becomes 0, and the Game overs.
+
+### Tuesday
+- Added the assets of the Tron 3D game in a new Unity project to convert it into a VR game.
+
+### Wednesday
+- Added packages to run the into VR, and changed the input system(and made some changes in script for the new input) so that the inputs now work for Occulus controller.
+
+### Thursday
+- After making some more changes and after several build testing in Occulus, the game is finally running in Occulus as a VR game.(*** shooting/raycasting still not working)
